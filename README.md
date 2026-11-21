@@ -1,22 +1,19 @@
 
-<!-- ========== HERO SECTION ========== -->
+<!-- ========== HERO BANNER ========== -->
 
 <div align="center">
 
-
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:050816,50:0B2447,100:00D9FF&amp;text=BHAVYA%20SAXENA&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=WEB%20%26%20APP%20DEVELOPER&amp;descAlignY=58&amp;animation=fadeIn" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bhavya+Saxena+%F0%9F%91%8B;Web+%26+App+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences;Exploring+AI+%26+Next-Gen+Technology;Turning+Ideas+Into+Reality+%E2%9A%A1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=23&amp;duration=3000&amp;pause=1000&amp;color=00E5FF&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Hey%2C+I'm+Bhavya+Saxena+%F0%9F%91%8B;Web+%26+App+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences;Exploring+AI+%26+Next-Gen+Technology;Turning+Ideas+Into+Reality+%E2%9A%A1" />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=notclassx-sys&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=notclassx-sys&amp;style=for-the-badge&amp;color=00D9FF&amp;label=PROFILE+VIEWS" />
 
 </div>
 
 ---
-
-<!-- ========== ABOUT ME ========== -->
 
 ## 👨‍💻 About Me
 
@@ -38,67 +35,63 @@ I enjoy exploring modern technologies, creating beautiful interfaces, developing
 
 ---
 
-<!-- ========== TECH STACK ========== -->
-
 ## ⚡ Technologies & Tools
 
 ### 💻 Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,java,kotlin,swift,cpp,c,cs,php,go,rust,ruby,bash,powershell,lua&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,java,kotlin,swift,cpp,c,cs,php,go,rust,ruby,bash,powershell,lua&amp;perline=9" />
 </p>
 
 ### 🎨 Frontend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,astro,tailwind,bootstrap,sass,materialui,redux,vite,webpack,threejs&perline=7" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,astro,tailwind,bootstrap,sass,materialui,redux,vite,webpack,threejs&amp;perline=7" />
 </p>
 
 ### ⚙️ Backend Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,graphql,apollo,rabbitmq&perline=7" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring,laravel,graphql,apollo,rabbitmq&amp;perline=7" />
 </p>
 
 ### 📱 Mobile App Development
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,reactnative,kotlin,swift,firebase&perline=7" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,androidstudio,reactnative,kotlin,swift,firebase&amp;perline=7" />
 </p>
 
 ### 🗄️ Databases & Backend Services
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase,appwrite,prisma,graphql&perline=7" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,supabase,firebase,appwrite,prisma,graphql&amp;perline=7" />
 </p>
 
 ### 🤖 AI & Machine Learning
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&perline=7" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn&amp;perline=7" />
 </p>
 
 ### ☁️ Cloud & DevOps
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,netlify,nginx,jenkins,linux,ubuntu&perline=7" />
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,vercel,netlify,nginx,jenkins,linux,ubuntu&amp;perline=7" />
 </p>
 
 ### 🛠️ Development Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,webstorm,postman,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,visualstudio,idea,webstorm,postman,figma&amp;perline=7" />
 </p>
 
 ### 🎮 Design, 3D & Creative Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=blender,unreal,unity,photoshop,illustrator,ae&perline=7" />
+<img src="https://skillicons.dev/icons?i=blender,unreal,unity,photoshop,illustrator,ae&amp;perline=7" />
 </p>
 
 ---
-
-<!-- ========== PROJECTS ========== -->
 
 ## 🚀 Projects & Experiments
 
@@ -125,25 +118,21 @@ Exploring new ideas, building modern applications and experimenting with emergin
 
 ---
 
-<!-- ========== GITHUB STATS ========== -->
-
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notclassx-sys&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&icon_color=00E5FF&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=notclassx-sys&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=050816&amp;title_color=00E5FF&amp;icon_color=00E5FF&amp;text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=notclassx-sys&theme=tokyonight&hide_border=true&background=050816&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=notclassx-sys&amp;theme=tokyonight&amp;hide_border=true&amp;background=050816&amp;ring=00E5FF&amp;fire=00E5FF&amp;currStreakLabel=00E5FF" />
 
 <br/><br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notclassx-sys&layout=compact&theme=tokyonight&hide_border=true&bg_color=050816&title_color=00E5FF&text_color=FFFFFF" />
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=notclassx-sys&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=050816&amp;title_color=00E5FF&amp;text_color=FFFFFF" />
 
 </div>
 
 ---
-
-<!-- ========== CONTRIBUTION GRAPH ========== -->
 
 ## 🐍 Contribution Snake
 
@@ -155,14 +144,12 @@ Exploring new ideas, building modern applications and experimenting with emergin
 
 ---
 
-<!-- ========== CONNECT ========== -->
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/notclassx-sys">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 <br/><br/>
@@ -176,6 +163,6 @@ Exploring new ideas, building modern applications and experimenting with emergin
 
 *Thanks for visiting my profile! Let's build something amazing.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0B2447,100:050816&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00D9FF,50:0B2447,100:050816&amp;height=120&amp;section=footer" width="100%" />
 
 </div>
