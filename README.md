@@ -3,7 +3,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:0B2447,100:00D9FF&text=BHAVYA%20SAXENA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=WEB%20%26%20APP%20DEVELOPER&descAlignY=58&animation=fadeIn" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;height=220&amp;color=0:050816,50:0B2447,100:00D9FF&amp;text=BHAVYA%20SAXENA&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=WEB%20%26%20APP%20DEVELOPER&amp;descAlignY=58&amp;animation=fadeIn" width="100%" />
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Bhavya+Saxena+%F0%9F%91%8B;Web+%26+App+Developer+%F0%9F%92%BB;Building+Modern+Digital+Experiences;Exploring+AI+%26+Next-Gen+Technology;Turning+Ideas+Into+Reality+%E2%9A%A1" />
 
