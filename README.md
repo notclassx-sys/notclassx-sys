@@ -43,9 +43,7 @@ I enjoy exploring modern technologies, creating beautiful interfaces, developing
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,dart,java,kotlin,swift,cpp,c,cs,php,go,rust,ruby,bash,powershell,lua" />
 </p>
-
 ### 🎨 Frontend Development
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,astro,tailwind,bootstrap,sass,materialui,redux,vite,webpack,threejs" />
 </p>
